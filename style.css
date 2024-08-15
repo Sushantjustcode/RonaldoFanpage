@@ -1,0 +1,217 @@
+body{
+  background-image: url(WhatsApp\ Image\ 2024-08-15\ at\ 17.42.04_854a02e9.jpg);
+  background-position: center;
+  background-attachment: fixed;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+
+h3{
+  text-align: center;
+}
+
+.head{
+ background: rgba(255, 255, 255, 0.19);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+backdrop-filter: blur(4.8px);
+border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+#brief{
+  transition: 0.7s;
+}
+
+#brief:hover{
+  background: rgba(255, 245, 0, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(5px);
+-webkit-backdrop-filter: blur(5px);
+border: 1px solid rgba(255, 245, 0, 0.3);
+}
+.content{
+transition: 0.7s;
+opacity: 0.7;
+}
+.content:hover{
+ background: rgba(255, 255, 255, 0.19);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+  backdrop-filter: blur(4.8px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  opacity: 1;
+}
+
+.content2{
+  transition: 0.7s;
+  opacity: 0.7;
+  }
+  .content2:hover{
+   background: rgba(255, 255, 255, 0.19);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+    backdrop-filter: blur(4.8px);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    opacity: 1;
+  }
+
+  .content3{
+    transition: 0.7s;
+    opacity: 0.7;
+    }
+    .content3:hover{
+     background: rgba(255, 255, 255, 0.19);
+      border-radius: 16px;
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+      backdrop-filter: blur(4.8px);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      opacity: 1;
+    }
+    
+    .content4{
+      transition: 0.7s;
+      margin-bottom: 50px;
+      opacity: 0.7;
+      }
+      .content4:hover{
+       background: rgba(255, 255, 255, 0.19);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+        backdrop-filter: blur(4.8px);
+        border: 1px solid rgba(255, 255, 255, 0.15);
+        opacity: 1;
+      }
+
+      .content5{
+        transition: 0.7s;
+        margin-bottom: 50px;
+        opacity: 0.7;
+        }
+        .content5:hover{
+         background: rgba(255, 255, 255, 0.19);
+          border-radius: 16px;
+          box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+          backdrop-filter: blur(4.8px);
+          border: 1px solid rgba(255, 255, 255, 0.15);
+          opacity: 1;
+        }
+
+        .content6{
+          transition: 0.7s;
+          margin-bottom: 50px;
+          opacity: 0.7;
+          }
+          .content6:hover{
+           background: rgba(255, 255, 255, 0.19);
+            border-radius: 16px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+            backdrop-filter: blur(4.8px);
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            opacity: 1;
+          }
+
+          .content7{
+            transition: 0.7s;
+            margin-bottom: 50px;
+            opacity: 0.7;
+            }
+            .content7:hover{
+             background: rgba(255, 255, 255, 0.19);
+              border-radius: 16px;
+              box-shadow: 0 4px 30px rgba(0, 0, 0, 0.40);
+              backdrop-filter: blur(4.8px);
+              border: 1px solid rgba(255, 255, 255, 0.15);
+              opacity: 1;
+            }
+
+        .img1{
+          transition: transform 0.5s ease;
+          position: relative;
+           left: 565px;
+          }
+          .image1{
+            position: absolute;
+          }
+          
+          .img1:hover {
+            transform: scale(1.1);
+          }
+
+          .img3{
+            transition: transform 0.5s ease;
+            position: relative;
+             left: 450px;
+            }
+            .image3{
+              position: absolute;
+            }
+            
+            .img3:hover {
+              transform: scale(1.1);
+            }
+
+            .img4{
+              transition: transform 0.5s ease;
+              position: relative;
+               left: 565px;
+              }
+              .image4{
+                position: absolute;
+              }
+              
+              .img4:hover {
+                transform: scale(1.1);
+              }
+
+              .img5{
+                transition: transform 0.5s ease;
+                position: relative;
+                 left: 500px;
+                }
+                .image5{
+                  position: absolute;
+                }
+                
+                .img5:hover {
+                  transform: scale(1.1);
+                }
+
+
+.img2{
+transition: transform 0.5s ease;
+position: relative;
+ left: 500px;
+}
+.image2{
+  position: absolute;
+}
+
+.img2:hover {
+  transform: scale(1.1);
+}
+
+p{
+  word-spacing: 2px;
+}
+
+.content{
+  text-align: center;
+}
+
+#ef{
+  text-decoration: underline;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  transition: transform 0.5s ease;
+}
+.me:hover{
+  transform: scale(1.5);
+}
+
+
